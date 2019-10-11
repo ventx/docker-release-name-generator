@@ -5,7 +5,7 @@
 
 ## Docker Hub
 
-[ventx/docker-namegenerator](https://cloud.docker.com/u/ventx/repository/docker/ventx/docker-namegenerator)
+[ventx/docker-namesgenerator](https://cloud.docker.com/u/ventx/repository/docker/ventx/docker-namesgenerator)
 
 
 # Docker image
